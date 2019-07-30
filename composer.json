@@ -1,0 +1,7 @@
+{
+  "name": "rokello/cyclos-api",
+  "description": "A wrapper for the cyclos 3.7.3 web service",
+  "require": {
+    "php": "^7.0"
+  }
+}
